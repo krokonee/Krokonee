@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="./maska1.png" width="120%" />
-
 # Hi 👋, Ihor Ivakhno
 
 ### Backend Developer
