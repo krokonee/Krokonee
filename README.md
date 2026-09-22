@@ -1,126 +1,111 @@
-                                          # Hi 👋, I'm Ihor
+<div align="center">
 
-### 💻 Backend Developer in Progress
+<img src="./assets/banner.png" width="100%" />
 
-**Building my way from code to real-world software.**
+# Hi 👋, Ihor Ivakhno
 
-I’m a student focused on backend development, software engineering and modern web technologies.
-Currently learning **C++, Java, databases and backend architecture** while building practical projects.
+### Backend Developer
+
+**Learning. Building. Improving.**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
-I'm a Computer Science student interested in **backend development, software engineering and AI-powered applications**.
+</div>
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+Hi, I'm **Ihor**, a Computer Science student focused on **backend development and software engineering**.
+
+I'm currently learning how to build scalable applications and understand how software works behind the interface.
 
 Currently working with:
 
-* ⚙️ **C++** — OOP, pointers, memory, data structures
-* ☕ **Java** — syntax, OOP and application development
-* 🌐 **HTML & CSS** — responsive websites and UI
-* 🗄️ **Databases** — learning SQL and PostgreSQL
-* 🔧 **Git & GitHub** — version control and project management
-* 🐧 **Linux** — development environment and backend tools
+* ⚙️ C++
+* ☕ Java
+* 🌐 HTML & CSS
+* 🗄️ SQL & Databases
+* 🔧 Git & GitHub
+* 🐧 Linux
+* 🤖 AI & Backend
 
-My goal is to become a **strong backend developer** who understands how software actually works — not just how to make it look good.
+I'm especially interested in **backend development, APIs, databases, system architecture and AI-powered applications**.
 
----
+My goal is to become a software engineer who can build **reliable, clean and maintainable systems**.
 
-## 🧠 Currently Learning
+</td>
 
-```text
-C++              █████████░  Advanced basics
-Java             ██████░░░░  OOP
-Backend          █████░░░░░  Learning
-Databases        ████░░░░░░  Learning
-HTML / CSS       ████████░░  Comfortable
-Git / GitHub     ████░░░░░░  Learning
-AI + Backend     ███░░░░░░░  Exploring
-```
+<td width="45%" align="center">
 
----
+<img src="./assets/about-me.png" width="90%" />
 
-## 🛠️ Tech Stack
-
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend & Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge\&logo=fastapi\&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+<div align="center">
 
-### 🎮 C++ Player System
+## 🤝 Connect
 
-A console-based C++ project focused on **OOP, structures, enums, pointers and basic game logic**.
+<br>
 
-### 🤖 Automation / Backend Projects
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
+</a>
 
-Building practical C++ projects that interact with external systems, APIs and browser-based environments.
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
+</a>
 
-### 🌐 Web Projects
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+</a>
 
-Creating modern websites with **HTML, CSS and JavaScript**, focusing on clean UI, animations and responsive layouts.
+</div>
+
+---
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode,linux,postgres,docker" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino" />
+
+</div>
 
 ---
 
-## 🎯 My Goals
-
-```text
-✓ Become a professional Backend Developer
-✓ Master C++ and Java
-✓ Build real backend applications
-✓ Learn PostgreSQL and API development
-✓ Understand software architecture
-✓ Work with AI inside backend systems
-✓ Build projects that solve real problems
-```
-
----
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
-</p>
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Code. Learn. Build. Repeat. 🚀</i>
-</p>
-
