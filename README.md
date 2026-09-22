@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./maska1.png" width="100%" />
+<img src="./maska1.png" width="120%" />
 
 # Hi 👋, Ihor Ivakhno
 
