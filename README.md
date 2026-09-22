@@ -44,7 +44,7 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 
 <td width="45%" align="center">
 
-<img src="./cupcode.jpg" width="100%">
+<img src="./cupcode.png" width="100%">
 
 </td>
 </tr>
