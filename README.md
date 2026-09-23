@@ -79,13 +79,11 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 <br>
 
 <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode,linux,postgres,docker" />
+<img src="https://raw.githubusercontent.com/msys2/msys2.github.io/master/favicon.svg" width="48" height="48"/>
+
 
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino" />
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/msys2/msys2.github.io/master/favicon.svg" width="48" height="48"/>
 
 </div>
