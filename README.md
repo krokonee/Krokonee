@@ -82,6 +82,10 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino,msys2" />
+<img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/msys2/msys2.github.io/master/favicon.svg" width="48" height="48"/>
 
 </div>
