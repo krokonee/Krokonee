@@ -89,20 +89,3 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 ---
 
 <div align="center">
-
-## 📊 GitHub Stats
-
-<br>
-
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0D1117" />
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Activity
