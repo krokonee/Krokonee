@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # Hi 👋, Ihor Ivakhno
 
 ### Backend Developer
@@ -82,10 +82,6 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino" />
+<img src="https://skillicons.dev/icons?i=cmake,github,git,postman,arduino,msys2" />
 
 </div>
-
----
-
-<div align="center">
