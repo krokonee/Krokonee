@@ -94,7 +94,6 @@ My goal is to become a software engineer who can build **reliable, clean and mai
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" />
 
 <br><br>
 
